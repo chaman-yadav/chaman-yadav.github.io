@@ -9,10 +9,10 @@
 I am Chaman Yadav, currently pursuing my Bachelor of Technology in Mathematics and Computing (B.Tech MnC) at IIT Goa, currently in my second year of study.
 # Education 
 | Academic Year | Standard | Grade | School/College Name |
-|---------------|----------|-------|---------------------|
-| 2018 | 10th | 90.6%| Vatsalya Senior Secondary School
-| 2020 | 12th |93.8% |Kendriya Vidyalaya Sagar |
-| 2023 | Btech 1st year |8.71 cgpa |IIT Goa |
+| :-----------: | :------: | :---: | :-----------------: |
+|      2018     |    10th  | 90.6% | Vatsalya Senior Secondary School
+|      2020     |   12th   |93.8% |Kendriya Vidyalaya Sagar |
+|      2023     | Btech 1st year |8.71 cgpa |IIT Goa |
 
 
 
